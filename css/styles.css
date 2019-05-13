@@ -1,0 +1,36 @@
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+      background:#c2efd5;
+      color:#000;
+      background-size:cover;
+      text-align: center;
+      height:500px;
+      width:600px;
+      margin:0 auto;
+}
+button{
+  padding:10px 20px;
+  cursor:pointer;
+  border-radius: 8px;
+}
+#user-name{
+  height:40px;
+  margin-right:5px;
+  text-align: center;
+  font-size:15px;
+  border-radius: 5px;
+}
+legend{
+  text-align: left;
+}
+
+.container{
+  margin:30px auto;
+}
+#result-area{
+text-align: left;
+  }
